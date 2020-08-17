@@ -31,6 +31,8 @@ Class will meet on Zoom three times a week (MWF 11am-12pm), with links posted to
 
 For this class *you will need frequent access to a computer that can run Python*. None of the analyses that we will be doing will be very intensive, so this does not need to be a modern or "fast" computer. Still, it will need to be running a standard operating system like Windows, Mac OS X, or Linux. Unfortunately, tablets running mobile operating systems (iOS, Android) probably won't work for this purpose. If this is an issue for you, please get in touch with the professor as soon as possible so that we can try to figure out a solution.
 
+Course materials (lecture slides, lecture demo notebooks, lab notebooks, homework assignments, etc.) will be available on the course website (https://github.com/alexhuth/ndap-fa2020).
+
 **Class Recordings:** Class recordings are reserved only for students in this class for educational purposes and are protected under FERPA. The recordings should not be shared outside the class in any form. Violation of this restriction by a student could lead to Student Misconduct proceedings.
 
 ### How to Succeed in this Course
