@@ -61,7 +61,7 @@ There will be 6 homework assignments. Assignments will be posted as the semester
 
 There are several components to the class grade.
 
-* Homeworks (60%): There will be 7 homework assignments. Each assignment is worth 10% of your grade.
+* Homeworks (60%): There will be 6 homework assignments. Each assignment is worth 10% of your grade.
 * Final exam (30%): There will be a take-home, open book final exam.
 * Class participation (10%): Showing up for class, demonstrating preparedness (i.e., doing the readings), contributing to class discussions, and doing the in-class labs. Students who are unable to regularly attend synchronous online class should contact the professor.
 
