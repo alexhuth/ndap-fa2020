@@ -7,7 +7,7 @@
 
 ### Instructor Contact Information
 * Alexander Huth
-* office hours:  Mon 1:30-3:00pm, Wed 1:30-3:00pm
+* office hours:  Tue 12:30-2:00pm, Thu 1:00-2:30pm
 * office: Online!
 * email: huth@cs.utexas.edu
 
