@@ -6,29 +6,29 @@
 * fri 9/4   - python (data types) - HOMEWORK 1 ASSIGNED
 
 * wed 9/9   - python (data types)
-* fri 9/11  - numpy
+* fri 9/11  - python (indexing & slicing)
 
 * mon 9/14  - numpy
 * wed 9/16  - numpy
 * fri 9/18  - numpy - HOMEWORK 1 DUE - HOMEWORK 2 ASSIGNED
 
-* mon 9/21  - matplotlib
-* wed 9/23  - matplotlib
-* fri 9/25  - ipyvolume, pycortex
+* mon 9/21  - numpy
+* wed 9/23  - numpy
+* fri 9/25  - matplotlib
 
-* mon 9/28  - probability (bayes theorem, bernoulli)
-* wed 9/30  - probability (binomials)
-* fri 10/2  - descriptive statistics - HOMEWORK 2 DUE - HOMEWORK 3 ASSIGNED
+* mon 9/28  - data visualization
+* wed 9/30  - probability (bernoulli, binomials)
+* fri 10/2  - statistical tests & descriptive statistics - HOMEWORK 2 DUE - HOMEWORK 3 ASSIGNED
 
-* mon 10/5  - bootstrap
-* wed 10/7  - bootstrap (confidence intervals)
-* fri 10/9  - gaussians
+* mon 10/5  - gaussians (central limit theorem, z-scores)
+* wed 10/7  - gaussians (t-tests, paired t-tests)
+* fri 10/9  - correlation
 
-* mon 10/12 - gaussians (hypothesis testing)
-* wed 10/14 - gaussians
-* fri 10/16 - permutation and bootstrap test - HOMEWORK 3 DUE - HOMEWORK 4 ASSIGNED
+* mon 10/12 - bootstrap
+* wed 10/14 - permutation tests
+* fri 10/16 - ipyvolume, pycortex - HOMEWORK 3 DUE - HOMEWORK 4 ASSIGNED
 
-* mon 10/19 - correlation
+* mon 10/19 - tbd
 * wed 10/21 - timeseries 
 * fri 10/23 - timeseries (fourier transform, spectrum)
 
