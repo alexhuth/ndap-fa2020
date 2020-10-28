@@ -42,11 +42,11 @@
 
 * mon 11/9  - linear regression (regularization)
 * wed 11/11 - classification
-* fri 11/13 - classification - HOMEWORK 5 DUE - HOMEWORK 6 ASSIGNED
+* fri 11/13 - classification
 
 * mon 11/16 - clustering
 * wed 11/18 - clustering
-* fri 11/20 - principal components analysis (PCA)
+* fri 11/20 - principal components analysis (PCA) - HOMEWORK 5 DUE - HOMEWORK 6 ASSIGNED
 
 * mon 11/23 - other dimensionality reduction methods (ICA, tSNE)
 
