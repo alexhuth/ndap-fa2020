@@ -38,20 +38,20 @@
 
 * mon 11/2  - receptive fields
 * wed 11/4  - linear regression
-* fri 11/6  - linear regression (stability)
+* fri 11/6  - linear regression
 
-* mon 11/9  - linear regression (regularization)
-* wed 11/11 - classification
-* fri 11/13 - classification
+* mon 11/9  - linear regression (evaluation)
+* wed 11/11 - linear regression (stability)
+* fri 11/13 - linear regression (regularization)
 
-* mon 11/16 - clustering
-* wed 11/18 - clustering
-* fri 11/20 - principal components analysis (PCA) - HOMEWORK 5 DUE - HOMEWORK 6 ASSIGNED
+* mon 11/16 - linear regression (practical)
+* wed 11/18 - classification
+* fri 11/20 - classification - HOMEWORK 5 DUE - HOMEWORK 6 ASSIGNED
 
-* mon 11/23 - other dimensionality reduction methods (ICA, tSNE)
+* mon 11/23 - clustering
 
-* mon 11/30 - tbd
-* wed 12/2  - tbd
-* fri 12/4  - tbd - HOMEWORK 6 DUE
+* mon 11/30 - clustering
+* wed 12/2  - principal components analysis (PCA)
+* fri 12/4  - other dimensionality reduction methods (ICA, tSNE) - HOMEWORK 6 DUE
 
 * mon 12/7  - last day of class - tbd
